@@ -2,10 +2,8 @@ PORTFOLIO
 
 Folder Structure
 
-1. Images
-2. script
-
-  index.html
-  
-  style.css
+/Images/image1.jpg
+/script/app.js
+index.html
+style.css
 
